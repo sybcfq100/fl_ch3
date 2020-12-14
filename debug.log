@@ -1,0 +1,6 @@
+[1015/124624.665:ERROR:process_reader_win.cc(127)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1015/124624.672:ERROR:exception_snapshot_win.cc(100)] thread ID 14280 not found in process
+[1015/124625.157:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\sybcf\AppData\Local\Temp\scoped_dir10208_646309499\Crashpad\attachments\4b366242-7ba9-4876-9d35-969fd2689eb2: 系统找不到指定的路径。 (0x3)
+[1015/124625.253:ERROR:process_reader_win.cc(127)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1015/124625.253:ERROR:exception_snapshot_win.cc(100)] thread ID 7204 not found in process
+[1015/124626.140:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\sybcf\AppData\Local\Temp\scoped_dir10208_646309499\Crashpad\attachments\02cd52c3-7cfc-4dc6-9381-683fef7544f9: 系统找不到指定的路径。 (0x3)
